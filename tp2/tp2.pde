@@ -2,7 +2,7 @@
 /* Calderón Valentín (comision 3)
   tp2 - CONSIGNA: crear una ilusión óptica
   
-  link de youtube: https://www.youtube.com/watch?v=M9F0HddgmXE&ab_channel=ValentinCalderon
+ 
   
                         
                         */
