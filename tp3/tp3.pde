@@ -1,6 +1,6 @@
 
 // Calderón Valentín (Comision N°3)
-//Video: https://www.youtube.com/watch?v=CRsQVmbDLC8&ab_channel=ValentinCalderon
+//Video: 
   
   // -Variables                        
   
